@@ -18,7 +18,6 @@ kubectl create -f https://raw.githubusercontent.com/kelseyhightower/oscon-metric
 
 ## Define and Enable the Autoscale Task
 
-```
 download the file autoscale.tick from the top page of oscon-metrics-tutorial
 
 ```
